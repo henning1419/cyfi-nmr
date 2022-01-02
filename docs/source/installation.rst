@@ -30,17 +30,19 @@ Start the Toolbox
 
 The program can be run completely by Matlab command line by executing
 
-.. code-block:: matlab
+.. code-block::
 
     programfolder/main.m
+
 
 However, it is recommended to use the graphical user interface (GUI)
 as it has the full feature set and no commands have to be learned.
 The GUI is started by
 
-.. code-block:: matlab
+.. code-block::
 
     programfolder/mainGUI.m
+
 
 In the beginning of the script in the ``Load data'' section uncomment or add just the load script you want to use
 (e.g. the examples *load_dataset_single* or *load_dataset_multi*).

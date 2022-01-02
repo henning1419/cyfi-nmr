@@ -6,8 +6,8 @@ project = 'CyFi-NMR'
 copyright = '2021, Henning Schröder'
 author = 'Henning Schröder'
 
-release = '0.1'
-version = '0.1.0'
+release = '1'
+version = '1.22.0'
 
 # -- General configuration
 
@@ -29,6 +29,9 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
+highlight_language = 'matlab'
+
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

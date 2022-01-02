@@ -30,7 +30,7 @@ Start the Toolbox
 
 The program can be run completely by Matlab command line by executing
 
-.. code-block::
+.. code-block:: 
 
     programfolder/main.m
 

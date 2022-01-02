@@ -1,7 +1,7 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the CyFi-NMR documentation!
+======================================
 
-**CyFi-NMR** (/Cycling Fields - NMR/) is a Matlab research tool to fit model parameters. 
+**CyFi-NMR** (/Cycling Fields - NMR/) is a Matlab research tool to fit model parameters in relaxometry models. 
 It comes with a handy GUI :D
 
 Check out the :doc:`usage` section for further information, including
@@ -16,5 +16,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   installation
+   team
